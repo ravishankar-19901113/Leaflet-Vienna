@@ -1,0 +1,1054 @@
+ [
+		{
+			"title": "Abwärmekarte",
+			"name": "ABWARMEPOTOGD"
+		},
+		{
+			"title": "Adressen",
+			"name": "ADRESSENOGD"
+		},
+		{
+			"title": "Weihnachts- und Silvestermärkte",
+			"name": "ADVENTMARKTOGD"
+		},
+		{
+			"title": "Ampeln mit Akustikkennung",
+			"name": "AKUSTISCHEAMPELOGD"
+		},
+		{
+			"title": "Altstoffsammelstelle",
+			"name": "ALTSTOFFSAMMLUNGOGD"
+		},
+		{
+			"title": "Ambulanzen",
+			"name": "AMBULANZOGD"
+		},
+		{
+			"title": "Ampeln ohne Akustikkennung",
+			"name": "AMPELOGD"
+		},
+		{
+			"title": "Städtisches Amt",
+			"name": "AMTOGD"
+		},
+		{
+			"title": "Apotheken",
+			"name": "APOTHEKEOGD"
+		},
+		{
+			"title": "Antike Siedlungsbereiche",
+			"name": "ARCHAEOSDLGOGD"
+		},
+		{
+			"title": "Archäologische Straßenzüge",
+			"name": "ARCHAEOSTRASSENOGD"
+		},
+		{
+			"title": "Straßengraph ASFINAG Wien - Knoten",
+			"name": "ASFINAGKNOTENOGD"
+		},
+		{
+			"title": "Straßengraph ASFINAG Wien - Geschwindigkeitsbeschränkung",
+			"name": "ASFINAGSPEEDOGD"
+		},
+		{
+			"title": "Straßengraph ASFINAG Wien - Autobahn, Schnellstraße",
+			"name": "ASFINAGSTRASSEOGD"
+		},
+		{
+			"title": "Wiener Linien Aufzüge",
+			"name": "AUFZUGOGD"
+		},
+		{
+			"title": "Ausblickspunkt",
+			"name": "AUSBLICKSPUNKTOGD"
+		},
+		{
+			"title": "Badestellen",
+			"name": "BADESTELLENOGD"
+		},
+		{
+			"title": "basemap.at Verdichtungsgebiete",
+			"name": "BASEMAPVERDOGD"
+		},
+		{
+			"title": "RBW-Baublöcke",
+			"name": "BAUBLOCKOGD"
+		},
+		{
+			"title": "Baumkataster",
+			"name": "BAUMKATOGD"
+		},
+		{
+			"title": "Bauperioden Detail",
+			"name": "BAUPERIODEDETAILOGD"
+		},
+		{
+			"title": "Bauperiodenübersicht",
+			"name": "BAUPERIODEGROBOGD"
+		},
+		{
+			"title": "verkehrswirksame Baustellen Linien",
+			"name": "BAUSTELLENLINOGD"
+		},
+		{
+			"title": "verkehrswirksame Baustellen Punkte",
+			"name": "BAUSTELLENPKTOGD"
+		},
+		{
+			"title": "Befund Archäologie",
+			"name": "BEFUNDARCHAEOOGD"
+		},
+		{
+			"title": "Begegnungszone",
+			"name": "BEGEGNUNGSZONEOGD"
+		},
+		{
+			"title": "Behindertenparkplatz",
+			"name": "BEHINDERTENPARKPLATZOGD"
+		},
+		{
+			"title": "Beratungszentrum",
+			"name": "BERATUNGSZENTROGD"
+		},
+		{
+			"title": "Bezirksgrenzen",
+			"name": "BEZIRKSGRENZEOGD"
+		},
+		{
+			"title": "Biosphärenpark",
+			"name": "BIOSPHPARKFOGD"
+		},
+		{
+			"title": "Betrachtungsbereich A,B",
+			"name": "BLICKBETRACHTABOGD"
+		},
+		{
+			"title": "Betrachtungsbereich C",
+			"name": "BLICKBETRACHTCOGD"
+		},
+		{
+			"title": "Taktiles Leitsystem",
+			"name": "BLINDENLEITSYSOGD"
+		},
+		{
+			"title": "Botschaft",
+			"name": "BOTSCHAFTOGD"
+		},
+		{
+			"title": "Brücken",
+			"name": "BRUECKENOGD"
+		},
+		{
+			"title": "Brücken und Tunnel der Landesstraßen B+L",
+			"name": "BRUECKETUNNELOGD"
+		},
+		{
+			"title": "Biotoptypenkartierung",
+			"name": "BTKARTIERUNGOGD"
+		},
+		{
+			"title": "Biotoptypenkartierung kleine Bäche",
+			"name": "BTKLBACHOGD"
+		},
+		{
+			"title": "Bücherei",
+			"name": "BUECHEREIOGD"
+		},
+		{
+			"title": "Bürgerdienst-Bezirksstellen",
+			"name": "BUERGERDIENSTOGD"
+		},
+		{
+			"title": "Mittelalterl. Burgen u. Schlösser",
+			"name": "BURGSCHLOSSOGD"
+		},
+		{
+			"title": "Bushaltezone",
+			"name": "BUSHALTEZONEOGD"
+		},
+		{
+			"title": "Busparkplatz",
+			"name": "BUSPARKPLATZOGD"
+		},
+		{
+			"title": "Busverbotszone",
+			"name": "BUSVERBOTSZONEOGD"
+		},
+		{
+			"title": "Campingplatz",
+			"name": "CAMPINGPLATZOGD"
+		},
+		{
+			"title": "Carsharing",
+			"name": "CARSHARINGOGD"
+		},
+		{
+			"title": "Christbaumsammelstelle",
+			"name": "CHRISTBAUMOGD"
+		},
+		{
+			"title": "Citybikes",
+			"name": "CITYBIKEOGD"
+		},
+		{
+			"title": "Dauerzählstelle",
+			"name": "DAUERZAEHLOGD"
+		},
+		{
+			"title": "Defibrillatoren",
+			"name": "DEFIBRILLATOROGD"
+		},
+		{
+			"title": "Donauinsel - Flächen (FKK)",
+			"name": "DONAUINSFLOGD"
+		},
+		{
+			"title": "Donauinselleitsystem",
+			"name": "DONAUINSLTSYOGD"
+		},
+		{
+			"title": "Donauinsel - Punkte",
+			"name": "DONAUINSPKTOGD"
+		},
+		{
+			"title": "Gewässer-Kilometrierung",
+			"name": "DONAUKILOMETER2OGD"
+		},
+		{
+			"title": "Donaukilometrierung",
+			"name": "DONAUKILOMETEROGD"
+		},
+		{
+			"title": "Einbahnen",
+			"name": "EINBAHNOGD"
+		},
+		{
+			"title": "Geförderte Photovoltaikanlagen",
+			"name": "ENGEFPVANLOGD"
+		},
+		{
+			"title": "Geförderte Solarthermieanlagen",
+			"name": "ENGEFSTANLOGD"
+		},
+		{
+			"title": "Innovative Energieprojekte",
+			"name": "ENINNOVPRJOGD"
+		},
+		{
+			"title": "Innovative Energieprojekte",
+			"name": "ENINNOVPRJV2OGD"
+		},
+		{
+			"title": "Sonstige Energieerzeugungsanlagen",
+			"name": "ENSONSTANLOGD"
+		},
+		{
+			"title": "Windpotential – Zonierung nach Eignung",
+			"name": "ENWINDPOTOGD"
+		},
+		{
+			"title": "Potenzialkarte Erdwärmesonden bis 30m",
+			"name": "ERDWSONDOGD"
+		},
+		{
+			"title": "EU-Projekte",
+			"name": "EUPROJEKTEOGD"
+		},
+		{
+			"title": "Fahrradabstellanlage",
+			"name": "FAHRRADABSTELLANLAGEOGD"
+		},
+		{
+			"title": "Fahrschule Wien",
+			"name": "FAHRSCHULEOGD"
+		},
+		{
+			"title": "Familienhebammen",
+			"name": "FAMHEBAMMEOGD"
+		},
+		{
+			"title": "Fließgewässer",
+			"name": "FLIESSGEWOGD"
+		},
+		{
+			"title": "Baukörpermodell",
+			"name": "FMZKBKMOGD"
+		},
+		{
+			"title": "FMZK - Gebäude",
+			"name": "FMZKGEBOGD"
+		},
+		{
+			"title": "FMZK - Gewässer",
+			"name": "FMZKGEWOGD"
+		},
+		{
+			"title": "FMZK - Gruen1",
+			"name": "FMZKGRUEN1OGD"
+		},
+		{
+			"title": "FMZK - Gruen2",
+			"name": "FMZKGRUEN2OGD"
+		},
+		{
+			"title": "FMZK - Mauer",
+			"name": "FMZKMAUOGD"
+		},
+		{
+			"title": "FMZK - Verkehr1",
+			"name": "FMZKVERKEHR1OGD"
+		},
+		{
+			"title": "FMZK - Verkehr2",
+			"name": "FMZKVERKEHR2OGD"
+		},
+		{
+			"title": "Fortifikation",
+			"name": "FORTIFIKATIONOGD"
+		},
+		{
+			"title": "Franziszeischer Kataster",
+			"name": "FRANZKATOGD"
+		},
+		{
+			"title": "Frequenzkarte",
+			"name": "FREQUENZKARTEOGD"
+		},
+		{
+			"title": "Friedhof",
+			"name": "FRIEDHOFOGD"
+		},
+		{
+			"title": "Fundboxen",
+			"name": "FUNDBOXENOGD"
+		},
+		{
+			"title": "Archäologische Fundpunkte",
+			"name": "FUNDPUNKTEOGD"
+		},
+		{
+			"title": "Fußgängerzonen",
+			"name": "FUSSGEHERZONEOGD"
+		},
+		{
+			"title": "Gabelpunkte",
+			"name": "GABELPUNKTOGD"
+		},
+		{
+			"title": "Garagen (inkl. Park and Ride)",
+			"name": "GARAGENOGD"
+		},
+		{
+			"title": "Gebäudeinformationen Allgemein",
+			"name": "GEBAEUDEINFOOGD"
+		},
+		{
+			"title": "Bautypologien",
+			"name": "GEBAEUDETYPOGD"
+		},
+		{
+			"title": "Gebietsbetreuung",
+			"name": "GEBIETSBETREUUNGOGD"
+		},
+		{
+			"title": "Gemeindebauten",
+			"name": "GEMBAUTENFLOGD"
+		},
+		{
+			"title": "Generalisierte Flächenwidmung",
+			"name": "GENFLWIDMUNGOGD"
+		},
+		{
+			"title": "Geoland - Shape",
+			"name": "GENFLWOGD"
+		},
+		{
+			"title": "Geonamen",
+			"name": "GEONAMENOGD"
+		},
+		{
+			"title": "Geschützte Biotope",
+			"name": "GESCHBIOFLOGD"
+		},
+		{
+			"title": "Geschützte Landschaftsteile",
+			"name": "GESCHLANDTEILEOGD"
+		},
+		{
+			"title": "Grundstücksinformation zur Stadtbefestigung",
+			"name": "GRDSTKSTADTBEFOGD"
+		},
+		{
+			"title": "Grillplätze",
+			"name": "GRILLPLATZOGD"
+		},
+		{
+			"title": "Grillzone",
+			"name": "GRILLZONEOGD"
+		},
+		{
+			"title": "Grüngürtel Wien Freifläche",
+			"name": "GRUENFREIFLOGD"
+		},
+		{
+			"title": "Grüngürtel Wien - Gewässer",
+			"name": "GRUENGEWOGD"
+		},
+		{
+			"title": "Gehsteigbreiten 2016",
+			"name": "GSTGBREITEOGD"
+		},
+		{
+			"title": "Haltestellen Wiener Linien",
+			"name": "HALTESTELLEWLOGD"
+		},
+		{
+			"title": "Hauptstraße",
+			"name": "HAUPTSTRARCHOGD"
+		},
+		{
+			"title": "Haus-und Außenbetreuung",
+			"name": "HAUSBETREUUNGOGD"
+		},
+		{
+			"title": "Historische Wasserleitung",
+			"name": "HISTWASSERLTGOGD"
+		},
+		{
+			"title": "Höhenfestpunkte",
+			"name": "HOEHENFESTPKTOGD"
+		},
+		{
+			"title": "Höhenlinien",
+			"name": "HOEHENLINIEOGD"
+		},
+		{
+			"title": "Hundekotsackerlspender",
+			"name": "HUNDESACKERLOGD"
+		},
+		{
+			"title": "Hundezone",
+			"name": "HUNDEZONEOGD"
+		},
+		{
+			"title": "Hochwasserüberflutungsflächen",
+			"name": "HWASSERFLUTOGD"
+		},
+		{
+			"title": "Hochwasser Gefahrenzonenplan",
+			"name": "HWGEFAHROGD"
+		},
+		{
+			"title": "Hydranten",
+			"name": "HYDRANTOGD"
+		},
+		{
+			"title": "Impfstellen",
+			"name": "IMPFSTELLEOGD"
+		},
+		{
+			"title": "Internationale Organisationen",
+			"name": "INTORGOGD"
+		},
+		{
+			"title": "Kinder- und Jugendangebot",
+			"name": "JGDANGEBOTOGD"
+		},
+		{
+			"title": "Kaserne",
+			"name": "KASERNEOGD"
+		},
+		{
+			"title": "Kindergarten",
+			"name": "KINDERGARTENOGD"
+		},
+		{
+			"title": "Krankenhaus",
+			"name": "KRANKENHAUSOGD"
+		},
+		{
+			"title": "Geschichte WIKI",
+			"name": "KULTURWIKIOGD"
+		},
+		{
+			"title": "Kunstwerke im Öffentlichen Raum - Kulturgut",
+			"name": "KUNSTWERKOGD"
+		},
+		{
+			"title": "Kurzparkzone (Linie)",
+			"name": "KURZPARKSTREIFENOGD"
+		},
+		{
+			"title": "Kurzparkzone (Fläche)",
+			"name": "KURZPARKZONEOGD"
+		},
+		{
+			"title": "Ladezonen",
+			"name": "LADEZONENOGD"
+		},
+		{
+			"title": "Ladezonen",
+			"name": "LADEZONEOGD"
+		},
+		{
+			"title": "Lärmschutz",
+			"name": "LAERMSCHUTZOGD"
+		},
+		{
+			"title": "Lärmschutz",
+			"name": "LAERMSCHUTZWANDOGD"
+		},
+		{
+			"title": "Lagerbau",
+			"name": "LAGERBAUOGD"
+		},
+		{
+			"title": "Lampentausch",
+			"name": "LAMPENTAUSCHOGD"
+		},
+		{
+			"title": "Landesgrenzen",
+			"name": "LANDESGRENZEOGD"
+		},
+		{
+			"title": "Landschaftsschutzgebiet",
+			"name": "LANDSCHUTZGEBOGD"
+		},
+		{
+			"title": "Luftgütenetz",
+			"name": "LUFTGUETENETZOGD"
+		},
+		{
+			"title": "Bohrlöcher",
+			"name": "M29BOHROGD"
+		},
+		{
+			"title": "Wiener Märkte (Punkt)",
+			"name": "MAERKTEOGD"
+		},
+		{
+			"title": "Wiener Märkte (Fläche)",
+			"name": "MARKTFLAECHEOGD"
+		},
+		{
+			"title": "Mauer ohne ASFINAG und WL",
+			"name": "MAUEROGD"
+		},
+		{
+			"title": "Mistplatz",
+			"name": "MISTPLATZOGD"
+		},
+		{
+			"title": "Mittelalterliche Stadtbefestigung",
+			"name": "MITTELALTBEFESTOGD"
+		},
+		{
+			"title": "Mittelalterliche Siedlungsbereiche - Mauer",
+			"name": "MITTELALTMAUEROGD"
+		},
+		{
+			"title": "Mittelalterliche Siedlungsbereiche - Siedlung",
+			"name": "MITTELALTSDLGOGD"
+		},
+		{
+			"title": "mobile Problemstoffsammelstelle",
+			"name": "MOBPROBLEMSTOFFOGD"
+		},
+		{
+			"title": "Monumentalbrunnen",
+			"name": "MONUMENTALBRUOGD"
+		},
+		{
+			"title": "Motorradabstellplatz",
+			"name": "MOTORRADABSTELLPLATZOGD"
+		},
+		{
+			"title": "Multimediastationen",
+			"name": "MULTIMEDIAOGD"
+		},
+		{
+			"title": "Museum",
+			"name": "MUSEUMOGD"
+		},
+		{
+			"title": "Musik- und Singschule",
+			"name": "MUSIKSINGSCHULEOGD"
+		},
+		{
+			"title": "MZK Blattschnitt 1:1000",
+			"name": "MZKBLATT1000OGD"
+		},
+		{
+			"title": "MZK Blattschnitt 1:5000",
+			"name": "MZKBLATT5000OGD"
+		},
+		{
+			"title": "Naturdenkmal",
+			"name": "NATDENKMALPKTOGD"
+		},
+		{
+			"title": "Nationalpark",
+			"name": "NATIONALPARKOGD_B"
+		},
+		{
+			"title": "Natura 2000 FloraFaunaHabitatrichtlinie",
+			"name": "NATURA2TOGD"
+		},
+		{
+			"title": "Natura 2000 Vogelschutzrichtlinie",
+			"name": "NATURA2TVOGELOGD"
+		},
+		{
+			"title": "Naturschutzgebiet",
+			"name": "NATURSCHUTZGEBOGD"
+		},
+		{
+			"title": "Netzwerk Natur Fläche",
+			"name": "NETZWERKIBEZFOGD"
+		},
+		{
+			"title": "Netzwerk Natur Linie",
+			"name": "NETZWERKIBEZLOGD"
+		},
+		{
+			"title": "Netzwerk Natur Fläche",
+			"name": "NETZWERKNATFLOGD"
+		},
+		{
+			"title": "Netzwerk Natur",
+			"name": "NETZWERKNATLINOGD"
+		},
+		{
+			"title": "Netzwerk Natur Punkt",
+			"name": "NETZWERKNATPKTOGD"
+		},
+		{
+			"title": "Öffentlich zugängliche Grünflächen - Flächen",
+			"name": "OEFFGRUENFLOGD"
+		},
+		{
+			"title": "Öffentlich zugängliche Grünflächen - Linien",
+			"name": "OEFFGRUENLINGOGD"
+		},
+		{
+			"title": "Öffentlich zugängliche Grünflächen - Zugangspunkte",
+			"name": "OEFFGRUENPKTGOGD"
+		},
+		{
+			"title": "Öffentlicher Verkehr - Haltestellen",
+			"name": "OEFFHALTESTOGD"
+		},
+		{
+			"title": "Öffentlicher Verkehr - Linien",
+			"name": "OEFFLINIENOGD"
+		},
+		{
+			"title": "Ökologische Entwicklungsflächen",
+			"name": "OEKOLENTFLOGD"
+		},
+		{
+			"title": "Parkanlage",
+			"name": "PARKANLAGEOGD"
+		},
+		{
+			"title": "Anrainerparkplätze",
+			"name": "PARKENANRAINEROGD"
+		},
+		{
+			"title": "Parkschein-Automat",
+			"name": "PARKENAUTOMATOGD"
+		},
+		{
+			"title": "Kurzparkzonen-Berechtigungszone",
+			"name": "PARKENBERECHTOGD"
+		},
+		{
+			"title": "Kurzparkzonen-Geltungsbereich",
+			"name": "PARKENGELTUNGOGD"
+		},
+		{
+			"title": "Parkschein-Geschäftsstelle",
+			"name": "PARKENVERKAUFOGD"
+		},
+		{
+			"title": "Parklets",
+			"name": "PARKLETSOGD"
+		},
+		{
+			"title": "Partizipationsprojekte",
+			"name": "PARTIZIPATIONOGD"
+		},
+		{
+			"title": "Pfarrsprengel",
+			"name": "PFARRSPRENGELOGD"
+		},
+		{
+			"title": "Hochrangiges Straßennetz - Planung Autobahn",
+			"name": "PLANUNGAUTOBOGD"
+		},
+		{
+			"title": "Straßenbahnplanung - Haltestellen",
+			"name": "PLANUNGBIMHALTOGD"
+		},
+		{
+			"title": "Straßenbahnplanung - Linien",
+			"name": "PLANUNGBIMOGD"
+		},
+		{
+			"title": "Hochrangiges Straßennetz - Planung Hauptstraße",
+			"name": "PLANUNGHPTSTROGD"
+		},
+		{
+			"title": "Hochrangiges Straßennetz - Planung Knoten",
+			"name": "PLANUNGKNOTENOGD"
+		},
+		{
+			"title": "Hochrangiges Straßennetz - Planung Schnellstraß&#x9f;e",
+			"name": "PLANUNGSCHNELLOGD"
+		},
+		{
+			"title": "U-Bahn Planung - Linien",
+			"name": "PLANUNGUBAHNOGD"
+		},
+		{
+			"title": "U-Bahn Planung - Haltestellen",
+			"name": "PLANUNGUBHALTOGD"
+		},
+		{
+			"title": "Polizei",
+			"name": "POLIZEIOGD"
+		},
+		{
+			"title": "Problemstoffsammelstellen",
+			"name": "PROBLEMSTOFFOGD"
+		},
+		{
+			"title": "Radwege",
+			"name": "RADWEGEOGD"
+		},
+		{
+			"title": "Ramsar - Gebiet",
+			"name": "RAMSAROGD"
+		},
+		{
+			"title": "Realnutzungskartierung 2001",
+			"name": "REALNUT2001OGD"
+		},
+		{
+			"title": "Realnutzungskartierung 2003",
+			"name": "REALNUT2003OGD"
+		},
+		{
+			"title": "Realnutzungskartierung 2005",
+			"name": "REALNUT2005OGD"
+		},
+		{
+			"title": "Realnutzungskartierung 2007/08",
+			"name": "REALNUT200708OGD"
+		},
+		{
+			"title": "Realnutzungskartierung 2009",
+			"name": "REALNUT2009OGD"
+		},
+		{
+			"title": "Realnutzungskartierung 2012",
+			"name": "REALNUT2012OGD"
+		},
+		{
+			"title": "Realnutzungskartierung bis 2014",
+			"name": "REALNUT2014OGD"
+		},
+		{
+			"title": "Realnutzung 2016",
+			"name": "REALNUT2016GOGD"
+		},
+		{
+			"title": "Religionsgemeinschaften",
+			"name": "RELIGIONOGD"
+		},
+		{
+			"title": "Schiffsanlegestelle",
+			"name": "SCHIFFANLEGESTOGD"
+		},
+		{
+			"title": "Schule",
+			"name": "SCHULEOGD"
+		},
+		{
+			"title": "Schwimmbad",
+			"name": "SCHWIMMBADOGD"
+		},
+		{
+			"title": "Sehenswürdigkeiten",
+			"name": "SEHENSWUERDIGOGD"
+		},
+		{
+			"title": "Sichtbarkeitskarte - Flächenbestand",
+			"name": "SICHTBARKEITOGD"
+		},
+		{
+			"title": "Blickziel",
+			"name": "SICHTBARKEITPOGD"
+		},
+		{
+			"title": "Silvesterpfad Linien",
+			"name": "SILVESPFADLINOGD"
+		},
+		{
+			"title": "Silvesterpfad Punkte",
+			"name": "SILVESPFADPKTOGD"
+		},
+		{
+			"title": "Sirenenstandorte",
+			"name": "SIRENEOGD"
+		},
+		{
+			"title": "SIS - Belagsflächen",
+			"name": "SISBELAGOGD"
+		},
+		{
+			"title": "SIS - Bordsteine",
+			"name": "SISBORDSTOGD"
+		},
+		{
+			"title": "Gehsteigabsenkung",
+			"name": "SISGEHSTEIGABSOGD"
+		},
+		{
+			"title": "Sozialmarkt",
+			"name": "SOZIALMARKTOGD"
+		},
+		{
+			"title": "Stadtspaziergang - Linien",
+			"name": "SPAZIERLINIEOGD"
+		},
+		{
+			"title": "Stadtspaziergang - Punkte",
+			"name": "SPAZIERPUNKTOGD"
+		},
+		{
+			"title": "Spielplatz",
+			"name": "SPIELPLATZOGD"
+		},
+		{
+			"title": "Sportstätten",
+			"name": "SPORTSTAETTENOGD"
+		},
+		{
+			"title": "Stadtbefestigung 16.-19. Jahrhundert",
+			"name": "STADTBEFESTIGOGD"
+		},
+		{
+			"title": "Stadtkassen",
+			"name": "STADTKASSEOGD"
+		},
+		{
+			"title": "Stationen",
+			"name": "STATIONENOGD"
+		},
+		{
+			"title": "Stehende Gewässer",
+			"name": "STEHENDEGEWOGD"
+		},
+		{
+			"title": "Straßengraph Wien - Gemeindestraße, Hauptstraße A,B",
+			"name": "STRASSENGRAPHOGD"
+		},
+		{
+			"title": "Straßengraph Wien - Knoten",
+			"name": "STRASSENKNOTENOGD"
+		},
+		{
+			"title": "Straßengraph Wien - Geschwindigkeitsbeschränkung",
+			"name": "STRASSENSPEEDOGD"
+		},
+		{
+			"title": "Straßenkonstruktionspunkt",
+			"name": "STRKONSTRUKTPOGD"
+		},
+		{
+			"title": "Taxistandplätze",
+			"name": "TAXIOGD"
+		},
+		{
+			"title": "Tempo 30 Zonen",
+			"name": "TEMPOZONEOGD"
+		},
+		{
+			"title": "Themenradwege",
+			"name": "THEMENRADWEGOGD"
+		},
+		{
+			"title": "Potenzialkarte Thermische Grundwassernutzung",
+			"name": "THERMLEISTKLOGD"
+		},
+		{
+			"title": "Trinkbrunnen",
+			"name": "TRINKBRUNNENOGD"
+		},
+		{
+			"title": "U-Bahnnetz Linien",
+			"name": "UBAHNOGD"
+		},
+		{
+			"title": "Universität",
+			"name": "UNIVERSITAETOGD"
+		},
+		{
+			"title": "Volkshochschule",
+			"name": "VOLKSHOCHSCHULEOGD"
+		},
+		{
+			"title": "ERGEBNIS_BP161_V_F",
+			"name": "WAHL.ERGEBNIS_BP161_V_F"
+		},
+		{
+			"title": "ERGEBNIS_BP162_V_F",
+			"name": "WAHL.ERGEBNIS_BP162_V_F"
+		},
+		{
+			"title": "ERGEBNIS_BP164_V_F",
+			"name": "WAHLERGEBNISBP164"
+		},
+		{
+			"title": "Ergebnis EU-Wahl 2019",
+			"name": "WAHLERGEBNISEU191OGD"
+		},
+		{
+			"title": "ERGEBNIS_NR171_V_F",
+			"name": "WAHLERGEBNISNR171"
+		},
+		{
+			"title": "Wahlergebnis Nationalratswahl 2019",
+			"name": "WAHLERGEBNISNR191OGD"
+		},
+		{
+			"title": "Wahllokale",
+			"name": "WAHLLOKALOGD"
+		},
+		{
+			"title": "Wahlsprengel - Bundespräsidentenwahl 2010",
+			"name": "WAHLSPRBP2010OGD"
+		},
+		{
+			"title": "Wahlsprengel in Wien - Bundespräsidentenwahl 2016",
+			"name": "WAHLSPRBP2016OGD"
+		},
+		{
+			"title": "Wahlsprengel - Europawahl 2009",
+			"name": "WAHLSPREU2009OGD"
+		},
+		{
+			"title": "Wahlsprengel - Europawahl 2014",
+			"name": "WAHLSPREU2014OGD"
+		},
+		{
+			"title": "Europawahl 2019",
+			"name": "WAHLSPREU2019OGD"
+		},
+		{
+			"title": "Wahlsprengel - Gemeinderatswahl 2005",
+			"name": "WAHLSPRGR2005OGD"
+		},
+		{
+			"title": "Wahlsprengel - Gemeinderatswahl 2010",
+			"name": "WAHLSPRGR2010OGD"
+		},
+		{
+			"title": "Wahlsprengel - Gemeinderatswahl 2015",
+			"name": "WAHLSPRGR2015OGD"
+		},
+		{
+			"title": "Wahlsprengel - Nationalratswahl 2006",
+			"name": "WAHLSPRNR2006OGD"
+		},
+		{
+			"title": "Wahlsprengel - Nationalratswahl 2008",
+			"name": "WAHLSPRNR2008OGD"
+		},
+		{
+			"title": "Wahlsprengel - Nationalratswahl 2013",
+			"name": "WAHLSPRNR2013OGD"
+		},
+		{
+			"title": "Wahlsprengel in Wien - Nationalratswahl 2017",
+			"name": "WAHLSPRNR2017OGD"
+		},
+		{
+			"title": "Wahlsprengel in Wien - Nationalratswahl 2019",
+			"name": "WAHLSPRNR2019OGD"
+		},
+		{
+			"title": "Wahlsprengel - Volksbefragung 2013",
+			"name": "WAHLSPRVB2013OGD"
+		},
+		{
+			"title": "Waldspielplätze",
+			"name": "WALDSPIELPLOGD"
+		},
+		{
+			"title": "Wanderwege (Stadtwanderweg Rundumadum)",
+			"name": "WANDERWEGEOGD"
+		},
+		{
+			"title": "Wanderwege Lainzer Tiergarten",
+			"name": "WANDERWEGLAINZOGD"
+		},
+		{
+			"title": "Wanderwege Lobau",
+			"name": "WANDERWEGLOBAUOGD"
+		},
+		{
+			"title": "Wasserschutzgebiete und Wasserschongebiete",
+			"name": "WASSERSCHUTZOGD"
+		},
+		{
+			"title": "WC-Anlagen Behindertenkabine mit Euro-Key",
+			"name": "WCANLAGEOGD"
+		},
+		{
+			"title": "Wegweiser ohne ASFINAG und WL",
+			"name": "WEGWEISEROGD"
+		},
+		{
+			"title": "Weltkulturerbe",
+			"name": "WELTKULTERBEOGD"
+		},
+		{
+			"title": "Wiener Wohnen",
+			"name": "WIENERWOHNENOGD"
+		},
+		{
+			"title": "WLAN - Stadt Wien Standorte",
+			"name": "WLANWIENATOGD"
+		},
+		{
+			"title": "Wiener Linien WLAN-Standorte",
+			"name": "WLANWRLOGD"
+		},
+		{
+			"title": "Wohnpartner",
+			"name": "WOHNPARTNEROGD"
+		},
+		{
+			"title": "Wohn-Pflegehaus",
+			"name": "WOHNPFLEGEHAUSOGD"
+		},
+		{
+			"title": "Wohnstrasse",
+			"name": "WOHNSTRASSEOGD"
+		},
+		{
+			"title": "Zählbezirksgrenzen",
+			"name": "ZAEHLBEZIRKOGD"
+		},
+		{
+			"title": "Zählgebiet",
+			"name": "ZAEHLGEBIETOGD"
+		},
+		{
+			"title": "Zugangsadressen",
+			"name": "ZUGANGSADROGD"
+		}
+	]
